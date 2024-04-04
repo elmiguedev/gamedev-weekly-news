@@ -5,6 +5,7 @@
 - [Indie game developers community on LinkedIn](https://www.linkedin.com/groups/4433494/)
 - [No gaming news](https://nogamingnews.com/)
 - [Web Game Dev](https://www.webgamedev.com/newsletter/021)
+- [https://gamefromscratch.com/news/](https://gamefromscratch.com/news/)
 ### Tech and games
 
 - [Phaser twitter](https://twitter.com/phaser_)
