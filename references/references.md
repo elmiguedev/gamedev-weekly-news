@@ -6,6 +6,8 @@
 - [No gaming news](https://nogamingnews.com/)
 - [Web Game Dev](https://www.webgamedev.com/newsletter/021)
 - [https://gamefromscratch.com/news/](https://gamefromscratch.com/news/)
+- [Pressover news](https://pressover.news/)
+
 ### Tech and games
 
 - [Phaser twitter](https://twitter.com/phaser_)
