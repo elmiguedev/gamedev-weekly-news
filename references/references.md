@@ -8,6 +8,7 @@
 - [https://gamefromscratch.com/news/](https://gamefromscratch.com/news/)
 - [Pressover news](https://pressover.news/)
 - [Calendario GameDev](https://sandaperu.notion.site/GameDev-Planner-4667ff0d95bf4d8ab3e47a6ad18c81a5)
+
 ### Tech and games
 
 - [Phaser twitter](https://twitter.com/phaser_)
