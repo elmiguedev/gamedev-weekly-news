@@ -9,6 +9,8 @@
 - [Pressover news](https://pressover.news/)
 - [Calendario GameDev](https://sandaperu.notion.site/GameDev-Planner-4667ff0d95bf4d8ab3e47a6ad18c81a5)
 - [Dev To](https://dev.to/)
+- [blog excalibur](https://excaliburjs.com/blog/)
+- [https://www.summergamefest.com/](https://www.summergamefest.com/)
 ### Tech and games
 
 - [Phaser twitter](https://twitter.com/phaser_)
