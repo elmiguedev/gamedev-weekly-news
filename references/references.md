@@ -11,6 +11,8 @@
 - [Dev To](https://dev.to/)
 - [blog excalibur](https://excaliburjs.com/blog/)
 - [https://www.summergamefest.com/](https://www.summergamefest.com/)
+- [Phaser reddit](https://www.reddit.com/r/phaser/)
+
 ### Tech and games
 
 - [Phaser twitter](https://twitter.com/phaser_)
