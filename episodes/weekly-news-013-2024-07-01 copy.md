@@ -15,13 +15,11 @@
 - [Block it Game tutorial](https://www.emanueleferonato.com/2022/05/11/block-it-html5-game-ported-to-typescript-with-some-new-features-powered-by-phaser-and-arcade-physics/)
 - [LittleJS](https://killedbyapixel.github.io/LittleJS/)
 - [GB Studio 4 Released](https://gamefromscratch.com/gb-studio-4-released/)
-- [](https://gamefromscratch.com/gdevelop-5-4-released-adds-multiplayer-support/)
+- [GDevelop 5.4 Released](https://gamefromscratch.com/gdevelop-5-4-released-adds-multiplayer-support/)
 
 ### Indie games
 - [Classroom Origami War (wombart)](https://wombart.itch.io/classroom-origami-war)
 - [Robot Game (pixelgamesweb)](https://pixelgamesweb.itch.io/robot)
-- []()
-- []()
 
 ### Jams of the week
 - [Mech Jam #5](https://itch.io/jam/mechjam5)
