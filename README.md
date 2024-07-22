@@ -4,7 +4,7 @@ Serie semanal de noticias, material y curiosidades sobre el mundo del desarrollo
 
 ## Recopilaciones
 
-Acá encontrar el link a la última recopilación -> [Episodio #14](https://github.com/elmiguedev/gamedev-weekly-news/blob/main/episodes/weekly-news-014-2024-07-08.md)  
+Acá encontrar el link a la última recopilación -> [Episodio #15](https://github.com/elmiguedev/gamedev-weekly-news/blob/main/episodes/weekly-news-015-2024-07-22.md)  
 También podes encontrar los eposodios anteriores en la carpeta [Episodios](https://github.com/elmiguedev/gamedev-weekly-news/tree/main/episodes)
 
 ## Media
